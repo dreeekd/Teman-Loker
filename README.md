@@ -1,6 +1,6 @@
 # TemanLoker
 
-A modern job search platform built with Next.js, TypeScript, and TailwindCSS.
+AI based to track, train, and ace job searching built with Next.js, TypeScript, and TailwindCSS.
 
 ## Features
 
