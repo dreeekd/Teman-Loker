@@ -1,4 +1,4 @@
-# TemanLoker
+# TemanGAWE
 
 A modern job search platform built with Next.js, TypeScript, and TailwindCSS.
 

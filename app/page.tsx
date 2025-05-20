@@ -7,7 +7,7 @@ export default function Home() {
       {/* Premium Banner */}
       <div className="bg-[#00574B] text-white p-4 flex justify-between items-center">
         <div className="flex items-center space-x-6">
-          <h2 className="text-lg font-medium">Semua Fitur Unlimited dengan TemanLoker+</h2>
+          <h2 className="text-lg font-medium">Semua Fitur Unlimited dengan TemanGAWE+</h2>
           <div className="flex items-center space-x-8">
             <div className="flex items-center space-x-2">
               <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -38,7 +38,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <Button className="bg-yellow-500 hover:bg-yellow-600 text-black font-medium">Upgrade TemanLoker+</Button>
+        <Button className="bg-yellow-500 hover:bg-yellow-600 text-black font-medium">Upgrade TemanGAWE+</Button>
       </div>
 
       <div className="p-6 max-w-6xl mx-auto">
@@ -94,9 +94,9 @@ export default function Home() {
                 </svg>
               </div>
               <div>
-                <h3 className="font-medium">Belajar gimana cara pakai TemanLoker</h3>
+                <h3 className="font-medium">Belajar gimana cara pakai TemanGAWE</h3>
                 <p className="text-sm text-gray-600">
-                  Tonton video tutorial ini tentang bagaimana menggunakan SEMUA TOOLS dari TemanLoker agar kamu diterima kerja lebih cepat.
+                  Tonton video tutorial ini tentang bagaimana menggunakan SEMUA TOOLS dari TemanGAWE agar kamu diterima kerja lebih cepat.
                 </p>
               </div>
               <Button variant="outline" size="sm" className="ml-auto">
@@ -107,7 +107,7 @@ export default function Home() {
 
           {/* Getting Started Section */}
           <div className="space-y-6">
-            <h2 className="text-xl font-bold">Mulai Pakai TemanLoker!</h2>
+            <h2 className="text-xl font-bold">Mulai Pakai TemanGAWE!</h2>
             <div>
               <div className="flex items-center justify-between mb-2">
                 <p className="font-medium">0% Progress</p>
@@ -137,7 +137,7 @@ export default function Home() {
                 <div className="flex-1">
                   <h3 className="font-medium">Install Chrome Extension - GRATIS!</h3>
                   <p className="text-sm text-gray-600">
-                    Download chrome extension TemanLoker untuk simpan data Loker, Kontak Network, Perusahaan & Resume dalam satu tempat yang terintegrasi.
+                    Download chrome extension TemanGAWE untuk simpan data Loker, Kontak Network, Perusahaan & Resume dalam satu tempat yang terintegrasi.
                   </p>
                 </div>
                 <Button className="bg-white text-black border hover:bg-gray-50">
@@ -152,7 +152,7 @@ export default function Home() {
                 <div className="flex-1">
                   <h3 className="font-medium">Tambahkan Loker di Job Tracker</h3>
                   <p className="text-sm text-gray-600">
-                    Bookmark Loker dari platform cari kerja favoritmu menggunakan Chrome Extension TemanLoker atau input manual.
+                    Bookmark Loker dari platform cari kerja favoritmu menggunakan Chrome Extension TemanGAWE atau input manual.
                   </p>
                 </div>
                 <Button className="bg-white text-black border hover:bg-gray-50">Simpan Loker dari Linkedin</Button>

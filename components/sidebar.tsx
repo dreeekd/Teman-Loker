@@ -26,7 +26,7 @@ export default function Sidebar() {
       <div className="p-4 border-b">
         <Link href="/" className="flex items-center">
           <h1 className="text-xl font-bold bg-gradient-to-r from-[#00574B] to-[#00A896] bg-clip-text text-transparent">
-            TemanLoker
+            TemanGAWE
           </h1>
         </Link>
       </div>

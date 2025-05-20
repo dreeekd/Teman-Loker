@@ -47,7 +47,7 @@ export default function PricingPage() {
     <div className="min-h-screen bg-white py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
-          <h1 className="text-3xl font-bold mb-4">Pilih Paket TemanLoker+</h1>
+          <h1 className="text-3xl font-bold mb-4">Pilih Paket TemanGAWE+</h1>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Tingkatkan pencarian kerja Anda dengan fitur premium kami. Pilih durasi langganan paket yang sesuai dengan kebutuhan Anda.
           </p>
@@ -100,7 +100,7 @@ export default function PricingPage() {
           {/* Right side - Features */}
           <div className="lg:w-[400px] bg-[#00574B] text-white rounded-lg p-8">
             <div className="mb-6">
-              <h2 className="text-3xl font-bold mb-2">TemanLoker+</h2>
+              <h2 className="text-3xl font-bold mb-2">TemanGAWE+</h2>
               <p>Semua fitur gratis termasuk, ditambah:</p>
             </div>
 
@@ -142,8 +142,8 @@ export default function PricingPage() {
           <h3 className="text-xl font-bold mb-4">Pertanyaan yang Sering Diajukan</h3>
           <div className="max-w-3xl mx-auto space-y-4">
             <FAQItem
-              question="Apa perbedaan antara versi gratis dan TemanLoker+?"
-              answer="Versi gratis menawarkan fitur dasar untuk pencarian kerja, sementara TemanLoker+ memberikan akses tak terbatas ke semua fitur premium seperti analisis resume lanjutan, skor kecocokan, dan pembuatan cover letter dengan AI."
+              question="Apa perbedaan antara versi gratis dan TemanGAWE+?"
+              answer="Versi gratis menawarkan fitur dasar untuk pencarian kerja, sementara TemanGAWE+ memberikan akses tak terbatas ke semua fitur premium seperti analisis resume lanjutan, skor kecocokan, dan pembuatan cover letter dengan AI."
             />
             <FAQItem
               question="Bisakah saya membatalkan langganan kapan saja?"
@@ -151,7 +151,7 @@ export default function PricingPage() {
             />
             <FAQItem
               question="Apakah ada jaminan uang kembali?"
-              answer="Ya, kami menawarkan jaminan uang kembali 7 hari. Jika Anda tidak puas dengan TemanLoker+, Anda dapat meminta pengembalian dana penuh dalam 7 hari pertama berlangganan."
+              answer="Ya, kami menawarkan jaminan uang kembali 7 hari. Jika Anda tidak puas dengan TemanGAWE+, Anda dapat meminta pengembalian dana penuh dalam 7 hari pertama berlangganan."
             />
           </div>
         </div>
